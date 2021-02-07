@@ -1,2 +1,2 @@
 # Digit-Recognization
-implementation of a svc model to recognize handwritten digits from the digits dataset in sklearn 
+implementation of a svm model to recognize handwritten digits from the digits dataset in sklearn 
